@@ -1,4 +1,4 @@
-module reactserver
+module PWA-go-server
 
 go 1.17
 
